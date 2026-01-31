@@ -21,3 +21,9 @@ The goal of this project is to explore how lifestyle factors such as physical ac
 
 ## Notes
 The dataset is uploaded locally when running the notebook in Google Colab and is not included in this repository.
+
+## Dataset
+
+The dataset used in this project is **synthetic** and was generated to simulate realistic sleep health and lifestyle behaviors for educational purposes.  
+No real individuals are represented in this data.
+
